@@ -1,2 +1,4 @@
 *.plist
 *.txt.test
+*.o
+.vscode
