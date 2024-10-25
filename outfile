@@ -1,0 +1,10 @@
+total 36
+drwxr-xr-x. 2 emagnani emagnani    52 Oct 23 16:43 includes
+-rw-r--r--. 1 emagnani emagnani    12 Oct 24 16:23 infile
+drwxr-xr-x. 7 emagnani emagnani  4096 Oct 24 11:52 libft
+-rw-r--r--. 1 emagnani emagnani  2052 Oct 23 17:33 Makefile
+drwxr-xr-x. 5 emagnani emagnani    60 Oct 24 11:52 objs
+-rw-r--r--. 1 emagnani emagnani     0 Oct 24 17:31 outfile
+-rwxr-xr-x. 1 emagnani emagnani 24240 Oct 24 11:52 pipex
+drwxr-xr-x. 5 emagnani emagnani    60 Oct 23 16:43 srcs
+hello
